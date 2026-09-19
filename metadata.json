@@ -1,0 +1,6 @@
+{
+  "name": "UFCU Membership Onboarding",
+  "description": "Conversational membership onboarding application for University Federal Credit Union",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
